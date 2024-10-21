@@ -1,6 +1,6 @@
 # Car Owners CSV Processing Script
 
-![AI image](scrapescrape.jpeg)
+![AI image](AI image.jpeg)
 ---
 
 ## Overview
