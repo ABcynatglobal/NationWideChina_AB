@@ -1,5 +1,5 @@
 
-![AI image](AI image.jpeg)
+![AI image](AI image.jpg)
 
 
 # Car Owners CSV Processing Script
