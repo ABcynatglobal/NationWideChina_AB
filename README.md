@@ -1,7 +1,5 @@
 # Car Owners CSV Processing Script
 
-![carowners](carowners.jpeg)
-
 ---
 
 ## Overview
